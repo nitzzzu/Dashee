@@ -1,0 +1,31 @@
+{
+    "name": "dashee",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build"
+    },
+    "dependencies": {
+        "axios": "^0.18.0",
+        "lodash": "^4.17.11",
+        "moment": "^2.23.0",
+        "moment-duration-format": "^2.2.2",
+        "moment-timezone": "^0.5.23",
+        "stringz": "^1.0.0",
+        "twemoji": "^11.2.0",
+        "vue": "^2.5.21",
+        "vue-save-state": "^1.2.0",
+        "vue-socket.io": "^3.0.4",
+        "vue2-frappe": "^1.0.28"
+    },
+    "devDependencies": {
+        "@fullhuman/postcss-purgecss": "^1.1.0",
+        "@vue/cli-plugin-babel": "^3.3.0",
+        "@vue/cli-service": "^3.3.0",
+        "postcss-easy-import": "^3.0.0",
+        "purgecss": "^1.1.0",
+        "tailwindcss": "^0.7.3",
+        "vue-template-compiler": "^2.5.21"
+    }
+}
