@@ -6,7 +6,7 @@
         position="b13:b24"
         date-format="ddd DD/MM"
         time-zone="Europe/Brussels"
-        weather-city="Antwerp"
+        weather-city="Bucharest"
       ></time-weather>
       <message position="c13:c24"></message>
       <chart position="b1:d12"></chart>
